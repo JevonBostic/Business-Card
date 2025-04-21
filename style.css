@@ -1,0 +1,57 @@
+body {
+    background-color:#f4f4f9;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #2c3e50;
+}
+.business-card {
+    background-color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgb(0, 0, 0, 0, 0.1);
+}
+
+.profile-image {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
+
+hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid;
+}
+
+.social-media {
+    font-size: 16px;
+    color: #2c3e50;
+    margin-bottom: 8px;
+}
+
+.connect-me {
+    font-size: 16px;
+    color: #2c3e50;
+    margin-bottom: 8px;
+}
+
