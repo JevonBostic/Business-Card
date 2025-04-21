@@ -24,7 +24,7 @@ This is a simple digital business card built with HTML, and CSS.
 
 ## 🌐 Live Demo
 
-Check it out here: [https://JevonBostic.github.io/business-card](https://JevonBostic.github.io/business-card)
+Check it out here: https://jevonbostic.github.io/Business-Card/
 
 ---
 
